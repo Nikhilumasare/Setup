@@ -1,0 +1,79 @@
+# Run this command on both Powershell for installing the scripts and module
+Set-ExecutionPolicy Bypass -scope CurrentUser -Force
+
+# Extension for Visual Studio Code
+# Examples
+# code --list-extensions
+# code --install-extension ms-vscode.csharp
+# code --uninstall-extension ms-vscode.csharp
+# code --disable-extensions
+
+
+# Microsoft Extensions
+code --install-extension "ms-dotnettools.csharp" # This is CSharp
+code --install-extension "visualstudioexptteam.vscodeintellicode" # Visual Studio IntelliCode
+code --install-extension "tintoy.msbuild-project-tools" # MSBuild project tools (Tools for working with MSBuild project files (such as auto-complete for package Ids / versions).)
+code --install-extension "icsharpcode.ilspy-vscode" # ilspy-vscode (Decompile MSIL assemblies - support for full framework, .NET Core and .NET Standard)
+#code --install-extension "ms-vscode.powershell" # PowerShell
+code --install-extension "ms-dotnettools.vscode-dotnet-runtime" #
+
+code --install-extension "ms-mssql.mssql" # For SQL Server, Local, Azure and other features
+
+# Tool for Testing
+code --install-extension "formulahendry.dotnet-test-explorer" # Test Explorer for .NET Core (MSTest, xUnit, NUnit)
+code --install-extension "hbenl.vscode-test-explorer" #Run your tests in the Sidebar of Visual Studio Code
+
+# HTML, Javascript, jquery, TypeScript, Angular, NPM Bower and XML
+code --install-extension "msjsdiag.debugger-for-chrome" # Chrome Debugger
+code --install-extension "eg2.vscode-npm-script" # For Running NPMScripts in package.json
+code --install-extension "christian-kohler.npm-intellisense" # npm intellisense
+code --install-extension "Zignd.html-css-class-completion" # IntelliSense For CSS Class Names
+code --install-extension "abusaidm.html-snippets"  # HTML Snippets
+code --install-extension "donjayamanne.jquerysnippets" #  JQ Snippets
+code --install-extension "xabikos.javascriptsnippets" # JavaScript Snippets
+code --install-extension "pranaygp.vscode-css-peek" # CSS Peek
+code --install-extension "ritwickdey.liveserver" # Live Server
+code --install-extension "dbaeumer.vscode-eslint" # Integrates ESLint into VS Code
+code --install-extension "ms-vscode.vscode-typescript-tslint-plugin" # Integrates the tslint linter for the TypeScript language into VS Code.
+code --install-extension "formulahendry.auto-complete-tag" # Will AutoComplete and Close, Rename tags
+code --install-extension "anteprimorac.html-end-tag-labels" # HTML End Tag Labels
+
+
+# Icons
+code --install-extension "pkief.material-icon-theme" # Material Icons
+
+# Themes
+code --install-extension "wesbos.theme-cobalt2" # Cobalt2 Theme Official
+code --install-extension "zhuangtongfa.material-theme" # OneDark Pro (binaryify)
+
+
+# Markdown
+code --install-extension "davidanson.vscode-markdownlint" # markdownlint
+code --install-extension "bierner.markdown-preview-github-styles" # Markdown Preview Github Styling
+code --install-extension "bierner.github-markdown-preview" # Markdown Preview Github Styling
+code --install-extension "yzane.markdown-pdf" # Markdown PDF
+#code --install-extension "dendron.dendron" # Markdown Notes by Dendron
+
+# Git
+code --install-extension "eamodio.gitlens" # GitLens
+code --install-extension "codezombiech.gitignore" #git ignore
+
+# Tools
+code --install-extension "streetsidesoftware.code-spell-checker" #  TS,JS, Text A basic spell checker that works well with camelCase code
+code --install-extension "dotjoshjohnson.xml" # XML Tools
+code --install-extension "formulahendry.code-runner" # Runs Code snippet of Many Lang
+code --install-extension "dkundel.vscode-new-file" # Advance New File
+code --install-extension "humao.rest-client" # REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
+code --install-extension "rangav.vscode-thunder-client" # Thunder Client is a GUI based Rest API Client Extension for Visual Studio Code, lighter than postman
+code --install-extension "aaron-bond.better-comments" # Better Comments by Aaron Bond
+code --install-extension "christian-kohler.path-intellisense" # Path Intellisense
+code --install-extension "kamikillerto.vscode-colorize" # Colorize (Shows the color)
+code --install-extension "ibm.output-colorizer" # Output Colorizer (Color Output for the Output window)
+code --install-extension "stuart.unique-window-colors" # Window Colors (Colors the Title and sidebar)
+code --install-extension "oderwat.indent-rainbow" # indent-rainbow
+code --install-extension "esbenp.prettier-vscode" # Prettier-Code formatter
+code --install-extension "yatki.vscode-surround" # Mehmet Yatkı
+
+# code --install-extension "alefragnani.project-manager" # Project Manager
+# code --install-extension "tomoki1207.pdf" # Will Display PDF files in VS Code
+# code --install-extension "redhat.vscode-yaml" # YAML
