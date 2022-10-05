@@ -1,15 +1,15 @@
 Caskadiya
 
-Cascadiya Code
-Cascadiya Mono
-CaskaydiaCove Nerd Font
-CaskaydiaCove Nerd Font Mono
+Caskaydia Cove Nerd Font Complete (CaskaydiaCove Nerd Font)
+Caskaydia Cove Nerd Font Complete Mono(CaskaydiaCove Nerd Font Mono)
 
 Jetbrains
 
-JetbrainsMono Nerd Font
-JetbrainsMono Nerd Font Mono
+Jetbrains Mono Regular Nerd Font Complete(JetBrainsMono Nerd Font)
+Jetbrains Mono Medium Nerd Font Complete(JetBrainsMono Nerd Font)
+Jetbrains Mono Regular Nerd Font Complete Mono (JetbrainsMono Nerd Font Mono)
+Jetbrains Mono Medium Nerd Font Complete Mono (JetbrainsMono Nerd Font Mono)
 
 DejaVuSans 
-DejaVuSans Mono Nerd Font
-DejaVuSans Mono Nerd Font Mono
+DejaVuSans Mono Nerd Font Complete (DejaVuSansMono Nerd Font)
+DejaVuSans Mono Nerd Font Complete Mono (DejaVuSansMono Nerd Font Mono)
